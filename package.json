@@ -1,0 +1,19 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majju69/twitter.git"
+  },
+  "author": "Kush Mazumdar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majju69/twitter/issues"
+  },
+  "homepage": "https://github.com/majju69/twitter#readme",
+  "description": ""
+}
